@@ -1,5 +1,5 @@
 site_name: Documentación del Proyecto
-site_url: https://github.com/IvanR0M0/Documentacion_Proyecto
+site_url: https://github.com/IvanR0M0/Documentacion_Proyecto.git
 docs_dir: docs_src
 nav:
   - Manual de Usuario: Manual_Usuario.md
@@ -7,3 +7,4 @@ nav:
   - Guía de Instalación: Guia_Instalacion.md
 theme:
   name: mkdocs
+
